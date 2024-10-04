@@ -34,13 +34,13 @@
 `1得分条`,`2女子记录表裁判`,`3男子记录表裁判`,`3.1男子成绩统计`,`2.1女子成绩统计`,`男子参赛表`,`女子参赛表`,`男子得分条`,`女子得分条`,`男子得分条备份`,`女子得分条备份` (共11个子sheet)
 
 展示excle中表格样式,sheet表列表显示在下边
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211642-1.png>)
+![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211642-1.png>)
 #### 注意到
 
 在拿到的表格中
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%145206.png>)
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211912-1.png>)
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211806-1.png>)
+![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%145206.png>)
+![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211912-1.png>)
+![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211806-1.png>)
 
 #### 这些时间信息需要修改!
 
