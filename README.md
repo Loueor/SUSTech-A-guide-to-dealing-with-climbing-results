@@ -34,13 +34,14 @@
 `1得分条`,`2女子记录表裁判`,`3男子记录表裁判`,`3.1男子成绩统计`,`2.1女子成绩统计`,`男子参赛表`,`女子参赛表`,`男子得分条`,`女子得分条`,`男子得分条备份`,`女子得分条备份` (共11个子sheet)
 
 展示excle中表格样式,sheet表列表显示在下边
-![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211642-1.png>)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-04%20211642-1.png)
 #### 注意到
 
 在拿到的表格中
-![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%145206.png>)
-![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211912-1.png>)
-![image](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-10-04%211806-1.png>)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-22%20145206.png)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-04%20211912-1.png)
+
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-10-04%20211806-1.png)
 
 #### 这些时间信息需要修改!
 
@@ -53,11 +54,11 @@
 可以使用`F11`+`Alt`键打开excle编程语言VBA, 如果是在笔记本中`F11`键可能和功能键重合,则需要按下`F11`+`Fn`+`Alt`(如果不能打开,请网络搜索"如何打开excle Microsoft Visual Basic for Application")
 
 打开如下界面,点击任何一个sheet,打开编辑框,选择通用模式
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%150534.png>)
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%150710.png>)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-22%20150534.png)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-22%20150710.png)
 
 #### 将下面代码复制放入后,点击左上角的绿色小三角    
-![alt text](<https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture\屏幕截图%2024-09-22%150856.png>)
+![image](https://github.com/Loueor/SUSTech-A-guide-to-dealing-with-climbing-results/blob/main/picture/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-09-22%20150856.png)
 #### 在WPS中
 需要先下载`wps.vab`插件,同EXCLE操作.
 
